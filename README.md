@@ -1,20 +1,40 @@
-# NASA Mission Control Project
+# SpaceVoyage: Cosmic Rocketry
+ - A MERN Product
 
-The completed version of our NASA project from [Complete Node.js Developer: Zero to Mastery](https://academy.zerotomastery.io/p/learn-node-js?affcode=441520_1jw4f2ay).
+Embark on a thrilling space exploration journey with the ability to launch rockets to distant Kepler planets within the universe. Unleash your curiosity as you explore uncharted territories, encounter wonders of the cosmos, and undertake a celestial odyssey of discovery.
 
-Keep in mind that we recommend you code along with us and use this only if you ever get stuck or you don't like to code along.
+## Overview
 
-## Getting Started
+SpaceVoyage: Cosmic Rocketry is a space exploration game that allows players to venture into the depths of the universe by launching rockets to distant Kepler planets. Explore the vastness of space, discover new celestial bodies, and experience the wonders of cosmic exploration.
 
-1. Ensure you have Node.js installed.
-2. Create a free [Mongo Atlas](https://www.mongodb.com/atlas/database) database online or start a local MongoDB database.
-3. Create a `server/.env` file with a `MONGO_URL` property set to your MongoDB connection string.
-4. In the terminal, run: `npm install`
+## Features
 
-## Running the Project
+- **Rocket Launching:** Experience the excitement of launching rockets from Earth to distant Kepler planets. Plan your trajectory carefully to ensure a successful journey.
 
-1. In the terminal, run: `npm run deploy`
-2. Browse to the mission control frontend at [localhost:8000](http://localhost:8000) and schedule an interstellar launch!
+- **Kepler Planets:** Discover a variety of Kepler planets, each with its own unique characteristics, landscapes, and potential for exploration.
+
+- **Cosmic Exploration:** Explore uncharted territories, scan planets for resources, and gather valuable data to expand your understanding of the cosmos.
+
+- **Research Upgrades:** Improve your rocket's capabilities and unlock new technologies through research and development. Enhance your exploration efforts as you progress.
+
+- **Stunning Visuals:** Immerse yourself in the beauty of space with breathtaking visuals of galaxies, nebulae, and distant planets.
+
+- **Achievements:** Accomplish challenging tasks and earn achievements that showcase your mastery of space exploration.
+- **History:** You can see your previous launch History.
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/sameerkali/Sameers_Rsume.git`
+2. Navigate to the project directory: `cd Sameers_resume`
+3. Install dependencies: `npm install`
+
+
+
+## Contributing
+
+We welcome contributions from the community to enhance the SpaceVoyage: Cosmic Rocketry experience. If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
+
+Before contributing, please review our [contribution guidelines](https://github.com/jessesquires/.github/blob/main/CONTRIBUTING.md).
 
 ## Docker
 
@@ -27,4 +47,16 @@ Keep in mind that we recommend you code along with us and use this only if you e
 To run any automated tests, run `npm test`. This will: 
 * Run all the client-side tests: `npm test --prefix client`
 * Run all the server-side tests: `npm test --prefix server` 
-# SpaceVoyage
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, please contact our support team at s.faridi007@gmail.com.
+
+Follow us on [Twitter](https://twitter.com/Sameer_faridi_) for updates and announcements.
+
+## Made With ~~lust~~ Love By @SameerKali
